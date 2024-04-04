@@ -1,0 +1,81 @@
+.contenitore{
+    margin: auto;
+    width: 63%;
+    height: 800px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-top: 50px;
+    font-family: 'Roboto', sans-serif;
+  }
+  .center {
+    margin: auto;
+    width: 80%;
+  }
+  
+  body {
+  background-image: url("sfondo.jpg");
+  background-size: cover;
+  }
+
+  .logo {
+    width: 20%;
+    height: 20%;
+    display: block;
+    margin: auto;
+    padding-top: 97px;
+  }
+  
+  header > h2 {
+    text-align: center;
+    font-size: 25px;
+    color: lime;
+  }
+  
+  nav {
+    background-color: lime;
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+  }
+  
+  nav > button {
+    align-items: center;
+  }
+  
+  main {
+    color: white;
+  }
+  
+  section {
+    padding-bottom: 30px;
+  }
+  
+  .Title1 {
+    font-size: 20px;
+  }
+  
+  .load1 {
+    border: 2px solid orange;
+    border-radius: 5px;
+    background-color: orange;
+    height: 20px;
+    width: 280px;
+  }
+  
+  .load2 {
+    border: 2px solid lime;
+    border-radius: 5px;
+    background-color: lime;
+    height: 20px;
+    width: 450px;
+  }
+  
+  .load3 {
+    border: 2px solid red;
+    border-radius: 5px;
+    background-color: red;
+    height: 20px;
+    width: 150px;
+  }
+  
